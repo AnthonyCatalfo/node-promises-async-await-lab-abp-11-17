@@ -37,6 +37,7 @@ class Question {
         resolve(allQuestions)
       }, 1500)
 
+   })
   }
 
   // FIXME: Implement async / await
